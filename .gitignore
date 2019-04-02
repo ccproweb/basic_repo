@@ -3,6 +3,7 @@
 secret.js
 secret.txt
 remoteRepoCommands.txt
+gitIgnoring.zip
 # ignores any directory named "secrets"
 secrets/
 /packages
