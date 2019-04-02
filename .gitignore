@@ -1,4 +1,5 @@
 # ignores any file named "secret.txt or remoteRepoCommands.txt secret.js"
+.gitignore
 secret.js
 secret.txt
 remoteRepoCommands.txt
